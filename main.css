@@ -20,3 +20,9 @@ a {
 a:hover {
     color: #e25440;
 }
+
+@media (min-width: 768px) {
+    .desktop-scrollable {
+        height: 100vh;
+    }
+}
